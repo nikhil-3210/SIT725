@@ -1,0 +1,17 @@
+ {
+  "name": "sit2.2p",
+  "version": "1.0.0",
+  "description": "this is a practical from uni 2.2p",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [
+    "practical"
+  ],
+  "author": "nikhil jadav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
