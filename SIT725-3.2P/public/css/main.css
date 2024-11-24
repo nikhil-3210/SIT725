@@ -1,0 +1,21 @@
+.hero {
+    background: url("/static/imgs/chargingstation.webp") no-repeat center center / cover;
+    height: 400px;
+    color: blue;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.features-icon {
+    font-size: 48px;
+}
+
+.feature-card {
+    padding: 20px;
+}
+
+.nav-wrapper .brand-logo {
+    margin-left: 20px;
+}

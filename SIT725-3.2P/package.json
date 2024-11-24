@@ -1,0 +1,17 @@
+{
+  "name": "practical3.1",
+  "version": "1.0.0",
+  "description": "this is a practical of 3.1 ASE",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [
+    "practical"
+  ],
+  "author": "nikhil jadav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
