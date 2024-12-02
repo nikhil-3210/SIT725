@@ -1,0 +1,17 @@
+{
+  "name": "practical4-2",
+  "version": "1.0.0",
+  "description": "practical 4.2 interacting with mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "nikhil jadav",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.3"
+  }
+}
