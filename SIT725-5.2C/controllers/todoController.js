@@ -1,4 +1,3 @@
-// controllers/todoController.js
 const { createTodo, getAllTodos, updateTodo, deleteTodo } = require('../models/todoModel');
 
 async function addTodo(req, res) {
