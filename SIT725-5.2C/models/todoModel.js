@@ -1,4 +1,3 @@
-// models/todoModel.js
 const { getDB } = require('../db');
 const { ObjectId } = require('mongodb'); // Import ObjectId
 
