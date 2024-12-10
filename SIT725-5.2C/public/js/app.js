@@ -1,4 +1,3 @@
-// public/js/app.js
 document.addEventListener('DOMContentLoaded', () => {
   const taskList = document.getElementById('task-list');
   const newTaskInput = document.getElementById('new-task');
@@ -11,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
         taskList.innerHTML = ''; // Clear the list
         todos.forEach(todo => {
           const li = document.createElement('li');
-          li.setAttribute('data-id', todo._id); // Store the task's ID
+          li.setAttribute('data-id', todo._id);
           li.innerHTML = `
             ${todo.task}
             <button class="edit-btn btn small waves-effect waves-light">Edit</button>
