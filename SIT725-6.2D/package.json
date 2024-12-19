@@ -1,0 +1,22 @@
+{
+  "name": "practicalweek5",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "nikhil jadav",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "chai-http": "^4.3.0",
+    "express": "^4.21.2",
+    "materialize-css": "^1.0.0",
+    "mongodb": "^6.11.0"
+  },
+  "devDependencies": {
+    "mocha": "^11.0.1",
+    "mongodb-memory-server": "^10.1.2"
+  }
+}
